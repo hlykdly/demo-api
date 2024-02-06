@@ -22,6 +22,7 @@ public class PersonController {
         return Arrays.asList(
                 new Person(1L, "John", 30, "john@email.com"),
                 new Person(2L, "Jane", 25, "jane@email.com"),
+                new Person(2L, "Janis", 25, "janis@email.com"),
                 new Person(1L,"pete",43, "asd@asd.com")
         );
     }
